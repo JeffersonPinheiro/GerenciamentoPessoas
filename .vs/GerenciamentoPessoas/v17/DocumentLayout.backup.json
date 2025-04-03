@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projetos\\GerenciamentoPessoas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7261B83F-27B5-4A7C-93BF-BE772761A914}|GerenciamentoPessoas\\GerenciamentoPessoas.csproj|e:\\projetos\\gerenciamentopessoas\\gerenciamentopessoas\\controllers\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7261B83F-27B5-4A7C-93BF-BE772761A914}|GerenciamentoPessoas\\GerenciamentoPessoas.csproj|solutionrelative:gerenciamentopessoas\\controllers\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7261B83F-27B5-4A7C-93BF-BE772761A914}|GerenciamentoPessoas\\GerenciamentoPessoas.csproj|e:\\projetos\\gerenciamentopessoas\\gerenciamentopessoas\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7261B83F-27B5-4A7C-93BF-BE772761A914}|GerenciamentoPessoas\\GerenciamentoPessoas.csproj|solutionrelative:gerenciamentopessoas\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7261B83F-27B5-4A7C-93BF-BE772761A914}|GerenciamentoPessoas\\GerenciamentoPessoas.csproj|e:\\projetos\\gerenciamentopessoas\\gerenciamentopessoas\\services\\ipessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7261B83F-27B5-4A7C-93BF-BE772761A914}|GerenciamentoPessoas\\GerenciamentoPessoas.csproj|solutionrelative:gerenciamentopessoas\\services\\ipessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7261B83F-27B5-4A7C-93BF-BE772761A914}|GerenciamentoPessoas\\GerenciamentoPessoas.csproj|e:\\projetos\\gerenciamentopessoas\\gerenciamentopessoas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7261B83F-27B5-4A7C-93BF-BE772761A914}|GerenciamentoPessoas\\GerenciamentoPessoas.csproj|solutionrelative:gerenciamentopessoas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7261B83F-27B5-4A7C-93BF-BE772761A914}|GerenciamentoPessoas\\GerenciamentoPessoas.csproj|e:\\projetos\\gerenciamentopessoas\\gerenciamentopessoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7261B83F-27B5-4A7C-93BF-BE772761A914}|GerenciamentoPessoas\\GerenciamentoPessoas.csproj|solutionrelative:gerenciamentopessoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7261B83F-27B5-4A7C-93BF-BE772761A914}|GerenciamentoPessoas\\GerenciamentoPessoas.csproj|e:\\projetos\\gerenciamentopessoas\\gerenciamentopessoas\\models\\pessoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7261B83F-27B5-4A7C-93BF-BE772761A914}|GerenciamentoPessoas\\GerenciamentoPessoas.csproj|solutionrelative:gerenciamentopessoas\\models\\pessoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPessoaService.cs",
+              "DocumentMoniker": "E:\\Projetos\\GerenciamentoPessoas\\GerenciamentoPessoas\\Services\\IPessoaService.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPessoas\\Services\\IPessoaService.cs",
+              "ToolTip": "E:\\Projetos\\GerenciamentoPessoas\\GerenciamentoPessoas\\Services\\IPessoaService.cs",
+              "RelativeToolTip": "GerenciamentoPessoas\\Services\\IPessoaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:31:37.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Projetos\\GerenciamentoPessoas\\GerenciamentoPessoas\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GerenciamentoPessoas\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Projetos\\GerenciamentoPessoas\\GerenciamentoPessoas\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GerenciamentoPessoas\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T21:51:12.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "E:\\Projetos\\GerenciamentoPessoas\\GerenciamentoPessoas\\Services\\PessoaService.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPessoas\\Services\\PessoaService.cs",
+              "ToolTip": "E:\\Projetos\\GerenciamentoPessoas\\GerenciamentoPessoas\\Services\\PessoaService.cs",
+              "RelativeToolTip": "GerenciamentoPessoas\\Services\\PessoaService.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwBAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:20:33.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoasController.cs",
+              "DocumentMoniker": "E:\\Projetos\\GerenciamentoPessoas\\GerenciamentoPessoas\\Controllers\\PessoasController.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPessoas\\Controllers\\PessoasController.cs",
+              "ToolTip": "E:\\Projetos\\GerenciamentoPessoas\\GerenciamentoPessoas\\Controllers\\PessoasController.cs",
+              "RelativeToolTip": "GerenciamentoPessoas\\Controllers\\PessoasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:44:10.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projetos\\GerenciamentoPessoas\\GerenciamentoPessoas\\Program.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPessoas\\Program.cs",
+              "ToolTip": "E:\\Projetos\\GerenciamentoPessoas\\GerenciamentoPessoas\\Program.cs",
+              "RelativeToolTip": "GerenciamentoPessoas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T03:26:37.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PessoaDto.cs",
+              "DocumentMoniker": "E:\\Projetos\\GerenciamentoPessoas\\GerenciamentoPessoas\\Models\\PessoaDto.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPessoas\\Models\\PessoaDto.cs",
+              "ToolTip": "E:\\Projetos\\GerenciamentoPessoas\\GerenciamentoPessoas\\Models\\PessoaDto.cs",
+              "RelativeToolTip": "GerenciamentoPessoas\\Models\\PessoaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:02:11.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
