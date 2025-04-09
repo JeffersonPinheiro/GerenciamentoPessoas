@@ -46,15 +46,18 @@ Update-Database
 
 ---
 
-📌 Observações
+## 📌 Observações
+
 O projeto pode ser facilmente expandido para incluir funcionalidades como autenticação, exportação de dados, filtros, etc.
 
 Ideal para fins educacionais ou como ponto de partida para projetos reais.
 
-🤝 Contribuições
+## 🤝 Contribuições
+
 Pull requests são bem-vindos! Fique à vontade para sugerir melhorias ou reportar bugs.
 
-📄 Licença
+## 📄 Licença
+
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 Desenvolvido com 💻 por Jefferson Pinheiro
