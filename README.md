@@ -31,3 +31,16 @@ Sistema web simples para **cadastrar, listar, editar e excluir pessoas**, utiliz
 1. Clone o projeto:
    ```bash
    git clone https://github.com/JeffersonPinheiro/GerenciamentoPessoas.git
+2.Abra com o Visual Studio 2022 ou superior.
+
+3.Configure o banco de dados no arquivo appsettings.json:
+"ConnectionStrings": {
+  "DefaultConnection": "Server=SEU_SERVIDOR;Database=GerenciamentoPessoas;Trusted_Connection=True;"
+}
+
+4.Execute as migrations (via Package Manager Console):
+Update-Database
+
+
+5.Rode a aplicação (F5).
+
